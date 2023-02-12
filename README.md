@@ -12,7 +12,7 @@ Within the field of Machine Learning, I am primarily – but not exclusively –
 * Reinforcement Learning
 
 ### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/danielkleine5)
+* [LinkedIn](https://www.linkedin.com/in/d-kleine)
 * [Medium](https://dkleine.medium.com/)
 
 
