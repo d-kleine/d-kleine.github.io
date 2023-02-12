@@ -6,7 +6,7 @@ Hi there, I'm Daniel!
 
 I'm a Psychologist turned into a Data Scientist specialized in Artificial Intelligence (traditional Machine Learning and Deep Learning) with a basic knowledge of Business Administration. Advanced programming skills in Python. Language skills in German, English, and Spanish.
 
-Within the field of Machine Learning, I am primarily (but not exclusively) interested in these subjects:
+Within the field of Machine Learning, I am primarily – but not exclusively – interested in these subjects:
 * Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)
 * Computer Vision
 * Reinforcement Learning
