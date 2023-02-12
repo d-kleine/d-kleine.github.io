@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Daniel,
+### :wave: Hi there, I'm Daniel,
 
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53251018?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d)
 
@@ -7,44 +7,37 @@ I'm a self-taught Data Scientist specialized in Artificial Intelligence (traditi
 * Computer Vision
 * Reinforcement Learning
 
-### 📬Connect with Me
+### :mailbox: Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/danielkleine5)
 * [Medium](https://dkleine.medium.com/)
 
 
-### Projects
+### :briefcase: Projects
 
 #### [Machine Learning DevOs (MLOps)](https://github.com/d-kleine/Udacity_MLOps)
-Optimized integration of Machine Learning models and deploy them in a production-level environment
+*Optimized integration of Machine Learning models and deploy them in a production-level environment*
+* Deploying Machine Learning Models in Production
+* Efficiency, effectiveness, and productivity in modern, real ML projects best practices around reproducible ML workflows
+* Use of a machine learning model in production
+* Full automation of MLOps processes required to evaluate and redeploy ML models
 
-**Project 1: Clean Code Principles**
+#### [(Deep) Reinforcement Learning](https://github.com/d-kleine/Udacity_Reinforcement-Learning)
+*Fundamentals of reinforcement learning that can be applied to implementations of many classic solution methods and modern approaches to applications such as video games and robotics*
+* Applying deep learning architectures to reinforcement learning tasks
+* Evolutionary algorithms and policy gradient methods
+* Collaboration respectively cooperation on a complex task
 
-*Deploying Machine Learning Models in Production:*
--	Using best practices for coding using PyLint and AutoPEP8
--	Improve Git and GitHub skills to work with teams
--	Testing and logging best practices used in production environments to ensure models stand the test of time
+#### [Computer Vision](https://github.com/d-kleine/Udacity_Computer-Vision)
+*Computer vision capabilities for various applications such as image and video processing, autonomous vehicle navigation, medical diagnostics, smartphone apps, and much more*
+* Basics of Computer Vision and image processing
+* CNN and RNN networks
+* Locate objects and track them over time
 
-**Project 2: Building a Reproducible Model Workflow**
 
-*Efficiency, effectiveness, and productivity in modern, real ML projects best practices around reproducible ML workflows:*
--	Build a clean, organized, reproducible end-to-end machine learning pipeline with MLflow from scratch 
--	Clean and validate the data with pytest 
--	Track experiments, code, and results using GitHub and Weights & Biases
--	Selection of the most powerful model for production
--	Deploy a model using MLflow
-
-**Project 3: Deploying a Scalable ML Pipeline in Production**
-
-*Use of a machine learning model in production:* 
--	Model performance, check for bias using slices of data and write a model map
--	Version control of data and models with Data Version Control (DVC) 
--	Perform Continuous Integration (CI) with GitHub Actions and Continuous Delivery/Deployment (CD)
--	Write a user interface (API) with FastAPI fast, type checked and auto-documented
-
-**Project 4: Automated model scoring and monitoring**
-
-*Full automation of MLOps processes required to evaluate and redeploy ML models:*
--	Automation of model training and deployment
--	Establishment of regular evaluation processes: Re-training and re-deployment of models at model drift
--	Diagnose operational issues with models, including data integrity and stability issues, timing issues, and dependency issues
--	Set up automated reports for APIs
+#### [Deep Learning](https://github.com/d-kleine/Udacity_Deep-Learning)
+*Programming Deep Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN) and Generative Adversarial Networks (GAN) with PyTorch*
+* Basic theoretical and practical topics of deep learning
+* Convolutional Neural Networks  (CNNs)
+* Recurrent Neural Networks (RNNs)
+* Generative Adversarial Networks (GANs)
+* Complete End-to-End ML project with AWS
