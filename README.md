@@ -16,7 +16,7 @@ Within the field of Machine Learning, I am primarily (but not exclusively) inter
 * [Medium](https://dkleine.medium.com/)
 
 
-### 💼 Projects
+### 💼 ML-Projects
 
 #### [Machine Learning DevOs (MLOps)](https://github.com/d-kleine/Udacity_MLOps)
 *Optimized integration of Machine Learning models and deploy them in a production-level environment*
@@ -45,3 +45,9 @@ Within the field of Machine Learning, I am primarily (but not exclusively) inter
 * Recurrent Neural Networks (RNNs)
 * Generative Adversarial Networks (GANs)
 * Complete End-to-End ML project with AWS
+
+### ✏️ Articles
+#### [Detection of knee or elbow points](https://medium.com/p/d13fc517a63c)
+On the blog *Towards Data Science*, I have published a scientific article that deals with the handling of the Python package "kneed". In this article, the "kneed" underlying algorithm Kneedle is presented. It shows how to identify knee or elbow points (i.e., data points at which the function graph rises or falls the most) with Python in the best possible way. Based on the mathematical definition of curvature for continuous functions, Kneedle detects those beneficial data points showing the best balance inherent tradeoffs — called “knees” (curves that have negative concavity) or sometimes “elbows” (curves that have positive concavity) — in discrete data sets. Finally, useful application examples for the detection of knee or elbow points in Machine Learning are shown.
+
+Visualizations created for this blog post can be found [here](https://github.com/d-kleine/kneed_visualizations).
