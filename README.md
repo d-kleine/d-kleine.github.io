@@ -1,4 +1,4 @@
-### :wave: Hi there, I'm Daniel,
+### 👋 Hi there, I'm Daniel,
 
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53251018?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d)
 
@@ -7,12 +7,12 @@ I'm a self-taught Data Scientist specialized in Artificial Intelligence (traditi
 * Computer Vision
 * Reinforcement Learning
 
-### :mailbox: Connect with Me
+### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/danielkleine5)
 * [Medium](https://dkleine.medium.com/)
 
 
-### :briefcase: Projects
+### 💼 Projects
 
 #### [Machine Learning DevOs (MLOps)](https://github.com/d-kleine/Udacity_MLOps)
 *Optimized integration of Machine Learning models and deploy them in a production-level environment*
