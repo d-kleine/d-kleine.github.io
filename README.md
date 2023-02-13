@@ -6,14 +6,31 @@ Hi there,
 
 I'm a Psychologist turned into a Data Scientist specialized in Artificial Intelligence (traditional Machine Learning and Deep Learning) with a basic knowledge of Business Administration. Advanced programming skills in Python. Language skills in German, English, and Spanish.
 
+🗺️ My experience:
+*	Python programming skills on an object-oriented level and a profound knowledge in applying Data Science methods and Machine Learning algorithms
+*	Extensive experience applying analytical skills to investigate and solve complex problems from both startup and corporate environments
+*	Several years of experience integrating psychological approaches and methods in knowledge transfer, consulting, and solution finding for improved customer outcomes
+
+💹 My successes:
+*	Developing solutions that are optimally aligned with client needs based on communication experience, which has increased sales, image, satisfaction and visibility, even in times of constrained budgets
+*	Expertise in developing various Deep Learning architectures and efficiently deploying and optimizing ML models for production use
+*	Driving internal improvements to reduce the workload of the team as well as promoting data-driven skills in times of skills shortages
+
+💪 My strengths:
+*	Understanding of human behavior and cognition and business concepts that helps to better interpret data, identify patterns in human behavior, and thus improve business decisions
+*	Ability to effectively present and communicate data and explain complex issues in an understandable manner, supported by an eye for detail
+*	Interdisciplinary thinking that allows data and ML model development to be viewed from a multi-faceted perspective, resulting in more effective and innovative solutions
+
+💡 My interests:
+-	Affinity for data to understand, interpret, and use large amounts of data to make informed decisions and solve complex problems
+-	Regular training and interest in the latest technologies and scientific developments in AI to better develop appropriate solutions to the challenges of the future and remain competitive
+-	Awareness of the impact of AI on society and the environment, that the decisions made by the model are reliable and responsible
+
 Within the field of Machine Learning, I am primarily – but not exclusively – interested in these subjects:
 * Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)
 * Computer Vision
 * Reinforcement Learning
 
-### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/d-kleine)
-* [Medium](https://dkleine.medium.com/)
 
 
 ### 💼 ML-Projects
@@ -50,3 +67,7 @@ Within the field of Machine Learning, I am primarily – but not exclusively –
 On the blog *Towards Data Science*, I have published a scientific article that deals with the handling of the Python package `kneed`. In this article, the underlying algorithm Kneedle is presented. It shows how to identify knee or elbow points (i.e., data points at which the function graph rises or falls the most) with Python in the best possible way. Based on the mathematical definition of curvature for continuous functions, Kneedle detects those beneficial data points showing the best balance inherent tradeoffs — called “knees” (curves that have negative concavity) or sometimes “elbows” (curves that have positive concavity) — in discrete data sets. Finally, useful application examples for the detection of knee or elbow points in Machine Learning are shown.
 
 Visualizations created for this blog post can be found [here](https://github.com/d-kleine/kneed_visualizations).
+
+### 📫 Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/d-kleine)
+* [Medium](https://dkleine.medium.com/)
