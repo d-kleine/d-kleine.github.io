@@ -4,7 +4,7 @@ Hi there,
 
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53251018?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d)
 
-I'm a Psychologist having professional experience as a Data Scientist specialized in field of Artificial Intelligence (traditional Machine Learning and Deep Learning) with a basic knowledge of Business Administration.
+I'm a Psychologist specialized in Work and Organizational Psychology having professional experience as a Data Scientist specialized in field of Artificial Intelligence (traditional Machine Learning and Deep Learning) with a basic knowledge of Business Administration.
 
 🗺️ My experience:
 *	Python programming skills at an object-oriented level and a profound knowledge in applying Data Science methods and Machine Learning algorithms
