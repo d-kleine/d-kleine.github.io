@@ -4,7 +4,7 @@ Hi there,
 
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53251018?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d)
 
-I'm a Psychologist turned into a Data Scientist specialized in Artificial Intelligence (traditional Machine Learning and Deep Learning) with a basic knowledge of Business Administration. Advanced programming skills in Python. Language skills in German, English, and Spanish.
+I'm a Psychologist having professional experience as a Data Scientist specialized in field of Artificial Intelligence (traditional Machine Learning and Deep Learning) with a basic knowledge of Business Administration.
 
 🗺️ My experience:
 *	Python programming skills on an object-oriented level and a profound knowledge in applying Data Science methods and Machine Learning algorithms
@@ -12,26 +12,25 @@ I'm a Psychologist turned into a Data Scientist specialized in Artificial Intell
 *	Several years of experience integrating psychological approaches and methods in knowledge transfer, consulting, and solution finding for improved customer outcomes
 
 💹 My successes:
-*	Developing solutions that are optimally aligned with client needs based on communication experience, which has increased sales, image, satisfaction and visibility, even in times of constrained budgets
-*	Expertise in developing various Deep Learning architectures and efficiently deploying and optimizing ML models for production use
-*	Driving internal improvements to reduce the workload of the team as well as promoting data-driven skills in times of skills shortages
+*	Developing customer-focused solutions that have increased sales, image, satisfaction, and visibility, even in times of constrained budgets
+*	Expertise in developing various deep learning architectures and efficiently deploying and optimizing ML models for production use
+*	Driving internal improvements to reduce the workload of the team, as well as promoting data-driven skills in times of skills shortages
 
 💪 My strengths:
-*	Understanding of human behavior and cognition and business concepts that helps to better interpret data, identify patterns in human behavior, and thus improve business decisions
-*	Ability to effectively present and communicate data and explain complex issues in an understandable manner, supported by an eye for detail
-*	Interdisciplinary thinking that allows data and ML model development to be viewed from a multi-faceted perspective, resulting in more effective and innovative solutions
+*	Interdisciplinary thinking from human factors and business management to optimize business decisions through multi-layered data perspectives
+*	Precision and accuracy in identifying critical relationships and patterns that help minimize risks and maximize opportunities
+*	Skills in effective presentation and communication to solve complex data problems to improve business outcomes
 
 💡 My interests:
--	Affinity for data to understand, interpret, and use large amounts of data to make informed decisions and solve complex problems
--	Regular training and interest in the latest technologies and scientific developments in AI to better develop appropriate solutions to the challenges of the future and remain competitive
--	Awareness of the impact of AI on society and the environment, that the decisions made by the model are reliable and responsible
+*	Passion for data and its potential to solve complex problems and provide valuable insights to stay competitive
+*	Interest in the latest technologies and scientific developments in AI to develop solutions to the challenges of the future
+*	Impact of AI on society and environment, that the decisions made by the model are reliable and responsible
 
 Within the field of Machine Learning, I am primarily – but not exclusively – interested in these subjects:
 * Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)
 * Computer Vision
 * Reinforcement Learning
-
-
+* Natural Language Processing (NLP)
 
 ### 💼 ML-Projects
 
