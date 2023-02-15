@@ -7,9 +7,9 @@ Hi there,
 I'm a Psychologist having professional experience as a Data Scientist specialized in field of Artificial Intelligence (traditional Machine Learning and Deep Learning) with a basic knowledge of Business Administration.
 
 🗺️ My experience:
-*	Python programming skills on an object-oriented level and a profound knowledge in applying Data Science methods and Machine Learning algorithms
+*	Python programming skills at an object-oriented level and a profound knowledge in applying Data Science methods and Machine Learning algorithms
 *	Extensive experience applying analytical skills to investigate and solve complex problems from both startup and corporate environments
-*	Several years of experience integrating psychological approaches and methods in knowledge transfer, consulting, and solution finding for improved customer outcomes
+*	Several years of experience integrating psychological approaches and methods into knowledge transfer, consulting, and solution finding for improved customer outcomes
 
 💹 My successes:
 *	Developing customer-focused solutions that have increased sales, image, satisfaction, and visibility, even in times of constrained budgets
