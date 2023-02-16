@@ -26,7 +26,7 @@ I'm a Work and Organizational Psychologist having professional experience as a D
 *	Interest in the latest technologies and scientific developments in AI to develop solutions to the challenges of the future
 *	Impact of AI on society and environment, that the decisions made by the model are reliable and responsible
 
-Within the field of Machine Learning, I am primarily – but not exclusively – interested in these subjects:
+Within the field of Machine Learning, I am primarily – but not exclusively – interested in following subjects:
 * Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)
 * Computer Vision
 * Reinforcement Learning
