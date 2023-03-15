@@ -12,8 +12,8 @@ I'm an Industrial and Organizational Psychologist having several years of profes
 *	Several years of experience integrating psychological approaches and methods into knowledge transfer, consulting, and solution finding for improved customer outcomes
 
 💹 My successes:
+*	Expertise in developing various ML and DL architectures and efficiently deploying and optimizing ML models for production use
 *	Developing customer-focused solutions that have increased sales, image, satisfaction, and visibility, even in times of constrained budgets
-*	Expertise in developing various deep learning architectures and efficiently deploying and optimizing ML models for production use
 *	Driving internal improvements to reduce the workload of the team, as well as promoting data-driven skills in times of skills shortages
 
 💪 My strengths:
