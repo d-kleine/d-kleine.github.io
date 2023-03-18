@@ -28,9 +28,8 @@ I'm an Industrial and Organizational Psychologist having several years of profes
 
 Within the field of Machine Learning, I am primarily – but not exclusively – interested in following subjects:
 * Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)
-* Computer Vision
 * Reinforcement Learning
-* Natural Language Processing (NLP)
+* Computer Vision
 
 ### 💼 ML-Projects
 
