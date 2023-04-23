@@ -68,4 +68,3 @@ Visualizations created for this blog post can be found [here](https://github.com
 
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/d-kleine)
-* [Medium](https://dkleine.medium.com/)
