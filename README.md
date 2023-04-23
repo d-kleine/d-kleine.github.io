@@ -33,26 +33,26 @@ Within the field of Machine Learning, I am primarily – but not exclusively –
 
 ### 💼 ML-Projects
 
-#### [Machine Learning DevOps (MLOps)](https://github.com/d-kleine/Udacity_MLOps)
+#### [Machine Learning DevOps (MLOps)](https://github.com/d-kleine/MLOps)
 *Optimized integration of Machine Learning models and deploy them in a production-level environment*
 * Deploying Machine Learning Models in Production
 * Efficiency, effectiveness, and productivity in modern, real ML projects best practices around reproducible ML workflows
 * Use of a machine learning model in production
 * Full automation of MLOps processes required to evaluate and redeploy ML models
 
-#### [(Deep) Reinforcement Learning](https://github.com/d-kleine/Udacity_Reinforcement-Learning)
+#### [(Deep) Reinforcement Learning](https://github.com/d-kleine/Reinforcement-Learning)
 *Fundamentals of reinforcement learning that can be applied to implementations of many classic solution methods and modern approaches to applications such as video games and robotics*
 * Applying deep learning architectures to reinforcement learning tasks
 * Evolutionary algorithms and policy gradient methods
 * Collaboration respectively cooperation on a complex task
 
-#### [Computer Vision](https://github.com/d-kleine/Udacity_Computer-Vision)
+#### [Computer Vision](https://github.com/d-kleine/Computer-Vision)
 *Computer vision capabilities for various applications such as image and video processing, autonomous vehicle navigation, medical diagnostics, smartphone apps, and much more*
 * Basics of Computer Vision and image processing
 * CNN and RNN networks
 * Locate objects and track them over time
 
-#### [Deep Learning](https://github.com/d-kleine/Udacity_Deep-Learning)
+#### [Deep Learning](https://github.com/d-kleine/Deep-Learning)
 *Programming Deep Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN) and Generative Adversarial Networks (GAN) with PyTorch*
 * Basic theoretical and practical topics of deep learning
 * Convolutional Neural Networks  (CNNs)
