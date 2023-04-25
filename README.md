@@ -31,7 +31,23 @@ Within the field of Machine Learning, I am primarily – but not exclusively –
 * Computer Vision
 * Reinforcement Learning
 
-### 💼 ML-Projects
+### 📫 Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/d-kleine)
+
+# Machine Learning projects
+
+### 🚀 Private projects
+
+#### [Prediction of car bad buys](https://github.com/d-kleine/cars_badbuys)
+-	Data Science workflow from data preparation to model interpretation
+ 
+#### [Finger counter with OpenCV and MediaPipe](https://github.com/d-kleine/finger_counter_webcam)
+-	Detecting landmarks of the user's hand, and then counting the number of fingers that are extended based on the positions of these landmarks.
+
+#### [Face recognition with OpenCV](https://github.com/d-kleine/face_recognition_webcam)
+-	Identifying key points in a human face using the pretrained Haar features based cascade classifier
+
+### 💼 Advanced training
 
 #### [Machine Learning DevOps (MLOps)](https://github.com/d-kleine/MLOps)
 *Optimized integration of Machine Learning models and deploy them in a production-level environment*
@@ -65,6 +81,3 @@ Within the field of Machine Learning, I am primarily – but not exclusively –
 On the *Towards Data Science* blog, I have published a scientific article that deals with the handling of the Python package `kneed`. In this article, the underlying algorithm Kneedle is presented. It shows how to identify knee or elbow points (i.e., data points at which the function graph rises or falls the most) with Python in the best possible way. Based on the mathematical definition of curvature for continuous functions, Kneedle detects those beneficial data points showing the best balance inherent tradeoffs — called “knees” (curves that have negative concavity) or sometimes “elbows” (curves that have positive concavity) — in discrete data sets. Finally, useful application examples for the detection of knee or elbow points in Machine Learning are shown.
 
 Visualizations created for this blog post can be found [here](https://github.com/d-kleine/kneed_visualizations).
-
-### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/d-kleine)
