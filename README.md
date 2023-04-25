@@ -34,6 +34,23 @@ Within the field of Machine Learning, I am primarily – but not exclusively –
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/d-kleine)
 
+# Technical skills
+Python (4 years): NumPy, Pandas, scikit-learn, PyTorch, OpenCV
+R, SQL, C++, Git, DVC, Asana, Trello, Atlassian
+
+_Data Processing_
+* Web Scraping, ETL, Pipelining, Testing, Logging
+_Unsupervised Learning_
+* Clustering, dimensionality reduction, GANs
+_Supervised Learning_
+* Regression, classification, FFNNs, CNNs, RNNs
+_Reinforcement Learning_
+* Value-based, policy-based, Actor-Critic methods
+_Interpretable/Explainable AI_
+* Model-agnostic, model-specific (neural networks)
+_Deployment_
+* AWS, Docker, CI/CD, MLflow, FastAPI, WandB
+
 # Machine Learning projects
 
 ### 🚀 Private projects
