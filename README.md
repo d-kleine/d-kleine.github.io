@@ -76,7 +76,7 @@ __Further development of company-internal software__
 __[Prediction of car bad buys](https://github.com/d-kleine/cars_badbuys)__
 -	Data Science workflow from data preparation to model interpretation
  
-__[Finger counter with OpenCV and MediaPipe](https://github.com/d-kleine/finger_counter_webcam)
+__[Finger counter with OpenCV and MediaPipe](https://github.com/d-kleine/finger_counter_webcam)__
 -	Detecting landmarks of the user's hand, and then counting the number of fingers that are extended based on the positions of these landmarks.__
 
 __[Face recognition with OpenCV](https://github.com/d-kleine/face_recognition_webcam)__
