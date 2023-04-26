@@ -66,7 +66,7 @@ __Development of interactive learning units__
 -	Developing artificial neural networks "from scratch" with *numpy*
 -	Advanced versioning of code with *Git*
 
-__Further development of in-house software__
+__Further development of company-internal software__
 -	Search function for training content using regular expressions
 -	Function for the easy change of write protection
 -	Functions for the automation of quality standards (e.g., PEP8 formatting)
