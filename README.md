@@ -57,7 +57,7 @@ __Interpretable/Explainable AI__
 __Deployment__
 * AWS, Docker, CI/CD, MLflow, FastAPI, WandB
 
-# Machine Learning projects
+# Projects
 
 ### 💼 Professional projects
 
