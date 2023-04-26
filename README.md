@@ -84,7 +84,7 @@ __[Face recognition with OpenCV](https://github.com/d-kleine/face_recognition_we
 
 (more projects are work in progress)
 
-### 💼 Advanced training
+### 🎓 Advanced training
 
 #### [Machine Learning DevOps (MLOps)](https://github.com/d-kleine/MLOps)
 *Optimized integration of Machine Learning models and deploy them in a production-level environment*
