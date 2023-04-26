@@ -70,6 +70,8 @@ __Deployment__
 #### [Face recognition with OpenCV](https://github.com/d-kleine/face_recognition_webcam)
 -	Identifying key points in a human face using the pretrained Haar features based cascade classifier
 
+(more projects are work in progress)
+
 ### 💼 Advanced training
 
 #### [Machine Learning DevOps (MLOps)](https://github.com/d-kleine/MLOps)
