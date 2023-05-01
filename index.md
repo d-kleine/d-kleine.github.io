@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### 👋 Welcome
 
 Hi there,
