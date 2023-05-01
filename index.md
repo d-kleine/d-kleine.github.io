@@ -1,5 +1,3 @@
-Hi there,
-
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53251018?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d)
 
 I'm a Work and Organizational Psychologist having several years of industry experience as a Data Scientist specialized in traditional Machine Learning as well as Deep Learning with competencies in MLOps.
