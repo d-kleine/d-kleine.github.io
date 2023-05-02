@@ -10,3 +10,5 @@ The repository contains the following files and directories:
 - `_config.yml`: Configuration file for Jekyll.
 - `favicon.ico`: Favicon used for the website
 - `index.md`: Template for the home page.
+
+In order to serve the website locally, run `bundle exec jekyll serve`.
