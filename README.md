@@ -11,4 +11,6 @@ The repository contains the following files and directories:
 - `favicon.ico`: Favicon used for the website
 - `index.md`: Template for the home page.
 
-In order to serve the website locally, run `bundle exec jekyll serve`.
+## Serving Jekyll Locally
+
+To view the d-kleine.github.io website locally on your machine, you can run `bundle exec jekyll serve`.
