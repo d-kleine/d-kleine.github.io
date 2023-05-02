@@ -69,13 +69,13 @@ __Further development of company-internal software__
 
 ### 🚀 Private projects
 
-__[Prediction of car bad buys](https://github.com/d-kleine/cars_badbuys)__
+#### [Prediction of car bad buys](https://github.com/d-kleine/cars_badbuys)
 -	Data Science workflow from data preparation to model interpretation
  
-__[Finger counter with OpenCV and MediaPipe](https://github.com/d-kleine/finger_counter_webcam)__
+#### [Finger counter with OpenCV and MediaPipe](https://github.com/d-kleine/finger_counter_webcam)
 -	Detecting landmarks of the user's hand, and then counting the number of fingers that are extended based on the positions of these landmarks.
 
-__[Face recognition with OpenCV](https://github.com/d-kleine/face_recognition_webcam)__
+#### [Face recognition with OpenCV](https://github.com/d-kleine/face_recognition_webcam)
 -	Identifying key points in a human face using the pretrained Haar features based cascade classifier
 
 (more projects are work in progress)
