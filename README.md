@@ -13,4 +13,4 @@ The repository contains the following files and directories:
 
 ## Serving Jekyll Locally
 
-To view the d-kleine.github.io website locally on your machine, you can run `bundle exec jekyll serve`.
+To view the website locally, you can run a Docker container using the *dockerfile*. Once the container is running, you can run the website with `bundle exec jekyll serve`.
