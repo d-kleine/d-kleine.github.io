@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+  my-service:
+    image: my-website
+    container_name: jekyll_github_pages
