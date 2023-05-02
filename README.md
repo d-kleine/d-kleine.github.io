@@ -8,7 +8,7 @@ The repository contains the following files and directories:
 - `_layouts`: Directory containing the templates used for the website.
 - `Gemfile`: File containing the required Ruby gems and their versions.
 - `_config.yml`: Configuration file for Jekyll.
-- `favicon.ico`: Favicon used for the website
+- `favicon.ico`: Favicon used for the website.
 - `index.md`: Template for the home page.
 
 ## Serving Jekyll Locally
