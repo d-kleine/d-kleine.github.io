@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Daniel Kleine's Portfolio</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Daniel Kleine's Portfolio">
+    <meta name="author" content="Daniel Kleine">    
+    <link rel="shortcut icon" href="favicon.ico">  
+    
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> 
+    
+    <!-- FontAwesome JS -->
+    <script defer src="assets/fontawesome/js/all.js"></script>
+    
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">  
+    
+    <!-- github calendar css -->
+    <link rel="stylesheet" href="assets/plugins/github-calendar/dist/github-calendar-responsive.css">
+    <!-- github activity css -->  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">  
+    <link rel="stylesheet" href="assets/plugins/github-activity/src/github-activity.css">
+
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+    
+</head> 
+
+<body>
+    <!-- ******HEADER****** --> 
+    <header class="header">
+        <div class="container">     
+            <div class="row align-items-center">
+                <div class="col">         
+                    <img class="profile-image img-fluid float-start rounded-circle" src="assets/images/profile.png" alt="profile image" />
+                    <div class="profile-content">
+                        <h1 class="name">Daniel Kleine</h1>
+                        <h2 class="desc">AI Expert</h2>   
+                        <ul class="social list-inline">
+
+                            <p><li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span> Berlin, Germany</li></p>
+
+                            <li class="list-inline-item"><a href="https://www.linkedin.com/in/d-kleine"><i class="fab fa-linkedin-in"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.github.com/d-kleine"><i class="fab fa-github"></i></a></li>
+                            <li class="list-inline-item"><a href="https://medium.com/@dkleine"><i class="fab fa-medium"></i></a></li>           
+                        </ul> 
+                    </div><!--//profile-->
+                </div><!--//col-->
+                <div class="col-12 col-md-auto">
+                    <div class="dark-mode-switch d-flex">
+                        <div class="form-check form-switch mx-auto mx-md-0">
+                            <input type="checkbox" class="form-check-input me-2" id="darkSwitch" />
+                            <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
+                        </div>
+                    </div><!--//dark-mode-switch-->        
+                </div><!--//col-->
+            </div><!--//row-->         
+        </div><!--//container-->
+    </header><!--//header-->
+    
+    <div class="container sections-wrapper py-5">
+        <div class="row">
+            <div class="primary col-lg-8 col-12">
+                <section class="about section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">About Me</h2>
+                        <div class="content">
+                            <p>I'm a Work and Organizational Psychologist having several years of industry experience as a Data Scientist specialized in traditional Machine Learning as well as Deep Learning with competencies in MLOps.</p>
+                            <p> Within the field of Machine Learning, I am primarily - but not exclusively - interested in following subjects:
+                        <ul>
+                            <li>Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)</li>
+                            <li>Reinforcement Learning</li>
+                            <li>Computer Vision</li>
+                            <li>Natural Language Processing (NLP), especially Large Language Models (LLMs)</li>
+                        </p>                        
+                        </div><!--//content-->
+                    </div><!--//section-inner-->                 
+                </section><!--//section-->
+
+                <section class="latest section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">Projects</h2>
+                        <div class="content">    
+                                                          
+                            <div class="item row">
+                                </a>
+                                <div>
+                                    <h3 class="title">Professional</h3>
+
+                                    <p class="mb-2"><strong>Development of ML solutions for data-based problems using Python</strong></p>
+                                    <ul>
+                                    <li>Supervised and unsupervised learning with sklearn and deep learning with Keras</li>
+                                    <li>Developing artificial neural networks "from scratch" with numpy</li>
+                                    <li>Advanced versioning of code with Git</li>
+                                    </ul>
+
+                                    <p class="mb-2"><strong>Further development of company-internal software</strong></p>
+                                    <ul>
+                                    <li>Search function for training content using regular expressions</li>
+                                    <li>Function for the easy change of write protection</li>
+                                    <li>Functions for the automation of quality standards (e.g., PEP8 formatting)</li>
+                                    </ul>
+                                    <hr>
+                            <div class="item row">
+                                </a>
+                                <div>
+                                    <h3 class="title">Private</h3>
+
+                                    <p class="mb-2"><strong>Prediction of car bad buys</strong></p>
+                                    <ul>
+                                    <li>Data Science workflow from data preparation to model interpretation</li>
+                                    </ul>
+                                    <div style="text-align:center;">
+                                        <p><a class="btn btn-cta-secondary" href="https://github.com/d-kleine/cars_badbuys" target="_blank"><i class="fas fa-external-link-alt"></i>to project</a></p>
+                                      </div>
+                                    <p class="mb-2"><strong>Finger counter with OpenCV and MediaPipe</strong></p>
+                                    <ul>
+                                    <li>Detecting landmarks of the user's hand, and then counting the number of fingers that are extended based on the positions of these landmarks.</li>
+                                    </ul>
+                                    <div style="text-align:center;">
+                                        <p><a class="btn btn-cta-secondary" href="https://github.com/d-kleine/finger_counter_webcam" target="_blank"><i class="fas fa-external-link-alt"></i>to project</a></p>
+                                      </div>
+                                    <p class="mb-2"><strong>Detection of knee or elbow points</strong></p>
+                                    <ul>
+                                    <li>Detecting beneficial data points showing the best balance inherent tradeoffs — called “knees” (curves that have negative concavity) or sometimes “elbows” (curves that have positive concavity) — in discrete data sets based on the mathematical definition of curvature for continuous functions</li>
+                                    </ul>
+                                    <div style="text-align:center;">
+                                        <p><a class="btn btn-cta-primary" href="https://medium.com/p/d13fc517a63c" target="_blank"><i class="fas fa-external-link-alt"></i>to article</a></p>
+                                      </div>
+                                    <div style="text-align:center;">
+                                        <p><a class="btn btn-cta-secondary" href="https://github.com/d-kleine/kneed_visualizations" target="_blank"><i class="fas fa-external-link-alt"></i>to project</a></p>
+                                      </div>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+                
+                
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                
+                </section><!--//section--> 
+                
+                <section class="latest section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">Certifications</h2>
+                        <div class="content">
+                            
+                            <div class="item row">
+                                    <div>
+                                        <h3 class="title"><a>Machine Learning DevOps (MLOps)</a></h3>
+                                        <p class="mb-2"><strong>Optimized integration of Machine Learning models and deploy them in a production-level environment</strong></p>
+                                        <ul>
+                                        <li>Deploying Machine Learning Models in Production</li>
+                                        <li>Efficiency, effectiveness, and productivity in modern, real ML projects best practices around reproducible ML workflows</li>
+                                        <li>Use of a machine learning model in production</li>
+                                        <li>Full automation of MLOps processes required to evaluate and redeploy ML models</li>
+                                        </ul>
+                                        <div style="text-align:center;">
+                                            <p><a class="btn btn-cta-secondary" href="https://github.com/d-kleine/MLOps" target="_blank"><i class="fas fa-external-link-alt"></i>to project</a></p>
+                                        </div>
+                                    </div><!--//desc-->
+                                </a>
+                            </div><!--//item-->
+                            <hr>                                       
+                            <div class="item row">
+                                <div>
+                                    <h3 class="title"><a >(Deep) Reinforcement Learning</a></h3>
+                                    <p class="mb-2"><strong>Fundamentals of reinforcement learning that can be applied to implementations of many classic solution methods and modern approaches to applications such as video games and robotics</strong></p>
+                                    <p>
+                                        <ul>                                            
+                                            <li>Applying deep learning architectures to reinforcement learning tasks</li>
+                                            <li>Evolutionary algorithms and policy gradient methods</li>
+                                            <li>Collaboration respectively cooperation on a complex task</li>
+                                        </ul>
+                                    </p>
+                                    <div style="text-align:center;">
+                                        <p><a class="btn btn-cta-secondary" href="https://github.com/d-kleine/Reinforcement-Learning" target="_blank"><i class="fas fa-external-link-alt"></i>to project</a></p>
+                                    </div>                          
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+                            <hr>
+                            <div class="item row">
+                                <div>
+                                    <h3 class="title"><a>Computer Vision</a></h3>
+                                    <p class="mb-2"><strong>Computer vision capabilities for various applications such as image and video processing, autonomous vehicle navigation, medical diagnostics, and smartphone apps, etc.</strong></p>
+                                    <p>
+                                        <ul>                                            
+                                            <li>Basics of Computer Vision and image processing</li>
+                                            <li>CNN and RNN networks</li>
+                                            <li>Locate objects and track them over time</li>
+                                        </ul>
+                                    </p>
+                                    <div style="text-align:center;">
+                                        <p><a class="btn btn-cta-secondary" href="https://github.com/d-kleine/Computer-Vision" target="_blank"><i class="fas fa-external-link-alt"></i>to project</a></p>
+                                    </div>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+                            <hr>
+                            <div class="item row">
+                                    <div>
+                                        <h3 class="title"><a>Deep Learning</a></h3>
+                                        <p class="mb-2"><strong>Programming Deep Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN) and Generative Adversarial Networks (GAN) with PyTorch</strong></p>
+                                        <ul>
+                                            <li>Basic theoretical and practical topics of deep learning</li>
+                                            <li>Convolutional Neural Networks (CNNs)</li>
+                                            <li>Recurrent Neural Networks (RNNs)</li>
+                                            <li>Generative Adversarial Networks (GANs)</li>
+                                            <li>Complete End-to-End ML project with AWS</li>
+                                        </ul>
+                                        <div style="text-align:center;">
+                                            <p><a class="btn btn-cta-secondary" href="https://github.com/d-kleine/Deep-Learning" target="_blank"><i class="fas fa-external-link-alt"></i>to project</a></p>
+                                        </div>
+                                    </div><!--//desc-->
+                                </a>
+                            </div><!--//item-->
+                                                   
+
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                
+                </section><!--//section--> 
+                
+            </div><!--//primary-->
+
+            
+            <div class="secondary col-lg-4 col-12">
+
+                <aside class="interests aside section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">Interests</h2>
+                        <div class="content">
+                            <ul>
+                                <li>Artificial Intelligence</li>
+                                <li>Cognitive Psychology</li>
+                                <li>ML Research</li>
+                                <li>Simulation games</li>
+                                <li>Sports and health</li>
+                                <li>Sustainability</li>
+                            </ul>                            
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+
+                <aside class="skills section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">Technical Skills</h2>
+                        <div class="content">
+                            <div class="content">
+                                <ul class="list-unstyled">
+                                    <li class="item">
+                                        <p><i>Python, R, SQL, C++, Git, DVC, Asana, Trello, Atlassian</p>
+                                        <hr>
+                                        <p><strong>Data Processing</strong>
+                                        <p><ul><li>Web Scraping, ETL, Pipelining, Testing, Logging</li></ul></p>
+                                        <p><strong>Unsupervised Learning</strong></p>
+                                        <p><ul><li>Clustering, dimensionality reduction, GANs</li></ul></p>
+                                        <p><strong>Supervised Learning</strong></p>
+                                        <p><ul><li>Regression, classification, FFNNs, CNNs, RNNs</li></ul></p>
+                                        <p><strong>Reinforcement Learning</strong></p>
+                                        <p><ul><li>Value-based, policy-based, Actor-Critic methods</li></ul></p>
+                                        <p><strong>Interpretable/Explainable AI</strong></p>
+                                        <p><ul><li>Model-agnostic, model-specific (neural networks)</li></ul></p>
+                                        <p><strong>Deployment</strong></p>
+                                        <p><ul><li>AWS, Docker, CI/CD, MLflow, FastAPI, WandB</li></p>
+                                        </ul>
+                            </div>              
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                 
+                </aside><!--//section-->
+                
+                
+                
+                <aside class="education aside section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">Education</h2>
+                        <div class="content">
+                            <div class="item">                      
+                                <h3 class="title"><i class="fas fa-graduation-cap"></i> "Diplom" (comparable to a MSc), Psychology</h3>
+                                <h4 class="university">University of Potsdam <span class="year">(2008-2014)</span></h4>
+                            </div><!--//item-->
+                            <div class="item">
+                                <h3 class="title"><i class="fa-solid fa-brain"></i> Trainer (Communication and Behavior)</h3>
+                                <h4 class="university">artop GmbH <span class="year">(2013-2014)</span></h4>
+                            </div><!--//item-->
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+
+                <section class="experience section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">Work Experience</h2>
+                        <div class="content">
+                            <div class="item">
+                                <h3 class="title">(Junior) Data Scientist - <span class="place">StackFuel GmbH</span> <span class="year">(02/2020 - 08/2022)</span></h3>
+                                <ul>
+                                    <li>Project management</li>
+                                    <li>Process optimization</li>
+                                </ul>
+                            </div><!--//item-->
+                            <div class="item">
+                                <h3 class="title">Test user - <span class="place">StackFuel GmbH</span> <span class="year">(03/2019 - 11/2019)</span></h3>
+                                <ul>
+                                    <li>Quality assurance</li></ul>
+                            </div><!--//item-->
+                            <div class="item">
+                                <h3 class="title">Working student - <span class="place">E.ON Business Services Berlin GmbH</span> <span class="year">(12/2016 - 05/2017)</span></h3>
+                                <ul>
+                                    <li>Training management</li></ul>
+                            </div><!--//item-->
+                            <div class="item">
+                                <h3 class="title">Intern - <span class="place">INQUA-Institute for Coaching</span> <span class="year">(11/2012 - 01/2013)</span></h3>
+                                <ul>
+                                    <li>HR development</li></ul>
+                            </div><!--//item-->
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                 
+                </section><!--//section-->
+                
+                            
+                <aside class="languages aside section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">Languages</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li class="item">
+                                    <span class="title"><strong>German:</strong></span>
+                                    <span class="level">Native Speaker <br class="visible-xs"/><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> </span>
+                                </li><!--//item-->
+                                <li class="item">
+                                    <span class="title"><strong>English:</strong></span>
+                                    <span class="level">Professional proficiency <br class="visible-sm visible-xs"/><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i></span>
+                                </li><!--//item-->
+                                <li class="item">
+                                    <span class="title"><strong>Spanish:</strong></span>
+                                    <span class="level">Advanced basics <br class="visible-sm visible-xs"/><i class="fas fa-star"></i> <i class="fas fa-star"></i></span>
+                                </li><!--//item-->
+                            </ul>
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+
+                <aside class="github section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading">My GitHub</h2>
+                        
+                        <!-- Include the library. -->
+                        <script
+                        src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
+                        </script>
+                
+                        <!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+                        <link
+                        rel="stylesheet"
+                        href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+                        />
+                
+                        <!-- Prepare a container for your calendar. -->
+                        <div class="calendar">
+                        <!-- Loading stuff -->
+                        Loading the data just for you.
+                        </div>
+                
+                        <script>
+                        // or enable responsive functionality:
+                        GitHubCalendar(".calendar", "d-kleine", { responsive: true });
+                        </script>
+                
+                        </div><!--//github-graph-->
+                        
+                    </div><!--//secton-inner-->
+                </aside><!--//section-->
+                              
+            </div><!--//secondary-->    
+        </div><!--//row-->
+    </div><!--//masonry-->
+    
+    <!-- ******FOOTER****** --> 
+    <footer class="footer">
+        <div class="container text-center">
+                <!--/* This template is free as long as you keep the attribution link below. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
+                <small class="copyright">Designed with <span class="sr-only">love</span><i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+        </div><!--//container-->
+    </footer><!--//footer-->
+ 
+    <!-- Javascript -->          
+    <script type="text/javascript" src="assets/plugins/popper.min.js"></script> 
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
+    <script type="text/javascript" src="assets/plugins/vanilla-rss/dist/rss.global.min.js"></script> 
+    <script type="text/javascript" src="assets/plugins/dark-mode-switch/dark-mode-switch.min.js"></script> 
+    <!-- github calendar plugin -->
+    <script type="text/javascript" src="assets/plugins/github-calendar/dist/github-calendar.min.js"></script>
+    <!-- github activity plugin -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/github-activity/src/github-activity.js"></script>
+    <!-- custom js -->
+    <script type="text/javascript" src="assets/js/main.js"></script>            
+</body>
+</html> 
