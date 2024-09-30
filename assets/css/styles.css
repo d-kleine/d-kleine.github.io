@@ -66,30 +66,45 @@ a:focus {
 
 a.btn-cta-primary, .btn-cta-primary {
   background: #54ba4e;
-  border: 1px solid #54ba4e;
+  border: 1px solid #d3d3d3; /* Light gray border */
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-primary:hover, .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
-  color: #fff;
+  background: #54ba4e; /* No change on hover */
+  border: 1px solid #d3d3d3; /* Maintain light gray border */
+  color: #d6d6d6;
 }
 
 a.btn-cta-secondary, .btn-cta-secondary {
   background: #479FC8;
-  border: 1px solid #479FC8;
+  border: 1px solid #d3d3d3; /* Light gray border */
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-secondary:hover, a.btn-cta-secondary:not(:disabled):not(.disabled):active:focus, .btn-cta-secondary:hover, .btn-cta-secondary:not(:disabled):not(.disabled):active:focus {
-  background: #3893bd;
-  border: 1px solid #3893bd;
+  background: #479FC8; /* No change on hover or active */
+  border: 1px solid #d3d3d3; /* Maintain light gray border */
+  color: #d6d6d6;
+  box-shadow: none;
+}
+
+a.btn-light, .btn-light {
+  background: #8a8a8a;
+  border: 1px solid #d3d3d3; /* Light gray border */
   color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+a.btn-light:hover, a.btn-light:not(:disabled):not(.disabled):active:focus, .btn-cta-secondary:hover, .btn-cta-secondary:not(:disabled):not(.disabled):active:focus {
+  background: #8a8a8a; /* No change on hover or active */
+  border: 1px solid #d3d3d3; /* Maintain light gray border */
+  color: #d6d6d6;
   box-shadow: none;
 }
 
