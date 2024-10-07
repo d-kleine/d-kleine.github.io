@@ -22,6 +22,19 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+# Link Check job
+linkChecker:
+  runs-on: ubuntu-latest
+  steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Run Lychee Link Checker
+      uses: lycheeverse/lychee-action@v1.10.0
+      with:
+        args: --verbose --no-progress './index.html'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # Build job
   build:
     runs-on: ubuntu-latest
